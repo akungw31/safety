@@ -1,0 +1,18 @@
+[20-Jun-2018 15:38:20 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[20-Jun-2018 15:38:20 UTC] PHP Warning:  chmod() has been disabled for security reasons in /home/safetynr/public_html/wp-admin/setup-config.php on line 408
+[22-Jun-2018 03:34:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/safetynr/public_html/wp-content/plugins/elementor/includes/managers/css-files.php on line 131
+[22-Jun-2018 03:34:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/safetynr/public_html/wp-content/plugins/elementor/includes/managers/css-files.php:131) in /home/safetynr/public_html/wp-admin/includes/misc.php on line 1116
+[22-Jun-2018 04:03:40 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[22-Jun-2018 04:03:40 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[22-Jun-2018 04:03:40 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[25-Jun-2018 09:28:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/safetynr/public_html/wp-admin/includes/translation-install.php on line 66
+[11-Jul-2018 04:56:20 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[16-Jul-2018 05:09:49 UTC] PHP Warning:  Creating default object from empty value in /home/safetynr/public_html/wp-content/plugins/downgrade/downgrade.php on line 83
+[16-Jul-2018 05:09:52 UTC] PHP Warning:  Creating default object from empty value in /home/safetynr/public_html/wp-content/plugins/downgrade/downgrade.php on line 83
+[19-Jul-2018 04:10:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[02-Aug-2018 06:19:50 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[02-Aug-2018 06:19:50 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[02-Aug-2018 06:19:50 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[21-Aug-2018 03:41:18 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[23-Aug-2018 05:39:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
+[23-Aug-2018 05:39:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/safetynr/public_html/wp-content/themes/lapax1.2.3d/functions.php on line 204
